@@ -1,0 +1,662 @@
+[
+  {
+    "id": "BA-001",
+    "categoria": "Necessaires",
+    "nome": "Necessaire simples M",
+    "preco": 13,
+    "medidas": "18 x 13 x 3 cm",
+    "foto": "imagens/catalogo_p02_03.jpg",
+    "ativo": true,
+    "pagina": "Página 2"
+  },
+  {
+    "id": "BA-002",
+    "categoria": "Necessaires",
+    "nome": "Necessaire simples G",
+    "preco": 15,
+    "medidas": "23 x 12 x 6 cm",
+    "foto": "imagens/catalogo_p02_03.jpg",
+    "ativo": true,
+    "pagina": "Página 2"
+  },
+  {
+    "id": "BA-003",
+    "categoria": "Necessaires",
+    "nome": "Necessaire box M",
+    "preco": 13,
+    "medidas": "13 x 9 x 7 cm",
+    "foto": "imagens/catalogo_p02_01.jpg",
+    "ativo": true,
+    "pagina": "Página 2"
+  },
+  {
+    "id": "BA-004",
+    "categoria": "Necessaires",
+    "nome": "Necessaire box G",
+    "preco": 18,
+    "medidas": "18 x 10 x 9 cm",
+    "foto": "imagens/catalogo_p02_10.jpg",
+    "ativo": true,
+    "pagina": "Página 2"
+  },
+  {
+    "id": "BA-005",
+    "categoria": "Necessaires",
+    "nome": "Necessaire box com alça",
+    "preco": 18,
+    "medidas": "18 x 10 x 9 cm",
+    "foto": "imagens/catalogo_p02_08.jpg",
+    "ativo": true,
+    "pagina": "Página 2"
+  },
+  {
+    "id": "BA-006",
+    "categoria": "Necessaires",
+    "nome": "Necessaire Joana",
+    "preco": 13,
+    "medidas": "20 x 9 x 4 cm",
+    "foto": "imagens/catalogo_p02_07.jpg",
+    "ativo": true,
+    "pagina": "Página 2"
+  },
+  {
+    "id": "BA-007",
+    "categoria": "Necessaires",
+    "nome": "Necessaire higiene visor cristal",
+    "preco": 20,
+    "medidas": "22 x 20 x 5 cm",
+    "foto": "imagens/catalogo_p03_11.jpg",
+    "ativo": true,
+    "pagina": "Página 3"
+  },
+  {
+    "id": "BA-008",
+    "categoria": "Necessaires",
+    "nome": "Necessaire maletinha",
+    "preco": 22,
+    "medidas": "20 x 19 cm",
+    "foto": "imagens/catalogo_p03_06.jpg",
+    "ativo": true,
+    "pagina": "Página 3"
+  },
+  {
+    "id": "BA-009",
+    "categoria": "Bolsinhas e carteiras",
+    "nome": "Bolsinha coração bordado",
+    "preco": 24,
+    "medidas": "25 x 22 cm",
+    "foto": "imagens/catalogo_p04_01.jpg",
+    "ativo": true,
+    "pagina": "Página 4"
+  },
+  {
+    "id": "BA-010",
+    "categoria": "Bolsinhas e carteiras",
+    "nome": "Carteirinha P",
+    "preco": 11,
+    "medidas": "16 x 13 cm",
+    "foto": "imagens/catalogo_p04_04.jpg",
+    "ativo": true,
+    "pagina": "Página 4"
+  },
+  {
+    "id": "BA-011",
+    "categoria": "Bolsinhas e carteiras",
+    "nome": "Carteira",
+    "preco": 13,
+    "medidas": "20 x 14 cm",
+    "foto": "imagens/catalogo_p05_03.jpg",
+    "ativo": true,
+    "pagina": "Página 5"
+  },
+  {
+    "id": "BA-012",
+    "categoria": "Porta-moedas",
+    "nome": "Porta moedas simples",
+    "preco": 10,
+    "medidas": "9 x 9 x 3 cm",
+    "foto": "imagens/catalogo_p05_02.jpg",
+    "ativo": true,
+    "pagina": "Página 5"
+  },
+  {
+    "id": "BA-013",
+    "categoria": "Porta-moedas",
+    "nome": "Porta moedas box",
+    "preco": 11,
+    "medidas": "",
+    "foto": "imagens/catalogo_p06_01.jpg",
+    "ativo": true,
+    "pagina": "Página 6"
+  },
+  {
+    "id": "BA-014",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsinha de mão",
+    "preco": 19,
+    "medidas": "19 x 14 x 7 cm",
+    "foto": "imagens/catalogo_p06_03.jpg",
+    "ativo": true,
+    "pagina": "Página 6"
+  },
+  {
+    "id": "BA-015",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsa de mão alça lateral",
+    "preco": 19,
+    "medidas": "19 x 14 x 9 cm",
+    "foto": "imagens/catalogo_p06_06.jpg",
+    "ativo": true,
+    "pagina": "Página 6"
+  },
+  {
+    "id": "BA-016",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Estojo cristal alça lateral",
+    "preco": 19,
+    "medidas": "19 x 14 x 9 cm",
+    "foto": "imagens/catalogo_p07_02.jpg",
+    "ativo": true,
+    "pagina": "Página 7"
+  },
+  {
+    "id": "BA-017",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsinha sereia",
+    "preco": 19,
+    "medidas": "22 x 14 x 7 cm",
+    "foto": "imagens/catalogo_p07_04.jpg",
+    "ativo": true,
+    "pagina": "Página 7"
+  },
+  {
+    "id": "BA-018",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsinha casinha",
+    "preco": 21,
+    "medidas": "20 x 19 x 9 cm",
+    "foto": "imagens/catalogo_p07_01.jpg",
+    "ativo": true,
+    "pagina": "Página 7"
+  },
+  {
+    "id": "BA-019",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsinha maçã",
+    "preco": 21,
+    "medidas": "21 x 16 x 9 cm",
+    "foto": "imagens/catalogo_p07_07.jpg",
+    "ativo": true,
+    "pagina": "Página 7"
+  },
+  {
+    "id": "BA-020",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsa Isadora G",
+    "preco": 26,
+    "medidas": "26 x 17 x 7 cm",
+    "foto": "imagens/catalogo_p07_09.jpg",
+    "ativo": true,
+    "pagina": "Página 7"
+  },
+  {
+    "id": "BA-021",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsa Heloisa G",
+    "preco": 26,
+    "medidas": "22 x 19 x 11 cm",
+    "foto": "imagens/catalogo_p08_04.jpg",
+    "ativo": true,
+    "pagina": "Página 8"
+  },
+  {
+    "id": "BA-022",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsinha ecobag",
+    "preco": 19,
+    "medidas": "30 x 26 cm",
+    "foto": "imagens/catalogo_p08_02.jpg",
+    "ativo": true,
+    "pagina": "Página 8"
+  },
+  {
+    "id": "BA-023",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsinha redonda alça longa",
+    "preco": 19,
+    "medidas": "16 cm diâmetro x 8 cm",
+    "foto": "imagens/catalogo_p08_01.jpg",
+    "ativo": true,
+    "pagina": "Página 8"
+  },
+  {
+    "id": "BA-024",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsinha redonda alça curta",
+    "preco": 18,
+    "medidas": "17 x 17 cm",
+    "foto": "imagens/catalogo_p08_06.jpg",
+    "ativo": true,
+    "pagina": "Página 8"
+  },
+  {
+    "id": "BA-025",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsinha ovo",
+    "preco": 18,
+    "medidas": "18 x 13 x 6 cm",
+    "foto": "imagens/catalogo_p08_05.jpg",
+    "ativo": true,
+    "pagina": "Página 8"
+  },
+  {
+    "id": "BA-026",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsinha festa na piscina",
+    "preco": 24,
+    "medidas": "31 x 25 cm",
+    "foto": "imagens/catalogo_p09_02.jpg",
+    "ativo": true,
+    "pagina": "Página 9"
+  },
+  {
+    "id": "BA-027",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsinha festa na piscina 2",
+    "preco": 24,
+    "medidas": "35 x 25 x 12 cm",
+    "foto": "imagens/catalogo_p09_01.jpg",
+    "ativo": true,
+    "pagina": "Página 9"
+  },
+  {
+    "id": "BA-028",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsinha coração P",
+    "preco": 18,
+    "medidas": "",
+    "foto": "imagens/catalogo_p09_04.jpg",
+    "ativo": true,
+    "pagina": "Página 9"
+  },
+  {
+    "id": "BA-029",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsinha coração M",
+    "preco": 20,
+    "medidas": "",
+    "foto": "imagens/catalogo_p09_04.jpg",
+    "ativo": true,
+    "pagina": "Página 9"
+  },
+  {
+    "id": "BA-030",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsinha bag",
+    "preco": 17,
+    "medidas": "16 x 15 cm",
+    "foto": "imagens/catalogo_p10_03.jpg",
+    "ativo": true,
+    "pagina": "Página 10"
+  },
+  {
+    "id": "BA-031",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsa cilindro horizontal P",
+    "preco": 20,
+    "medidas": "21 cm largura x 45 cm diâmetro",
+    "foto": "imagens/catalogo_p10_04.jpg",
+    "ativo": true,
+    "pagina": "Página 10"
+  },
+  {
+    "id": "BA-032",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsa cilindro horizontal M",
+    "preco": 23,
+    "medidas": "30 cm largura x 55 cm diâmetro",
+    "foto": "imagens/catalogo_p10_02.jpg",
+    "ativo": true,
+    "pagina": "Página 10"
+  },
+  {
+    "id": "BA-033",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsa cilindro horizontal G",
+    "preco": 26,
+    "medidas": "35 cm largura x 63 cm diâmetro",
+    "foto": "imagens/catalogo_p10_07.jpg",
+    "ativo": true,
+    "pagina": "Página 10"
+  },
+  {
+    "id": "BA-034",
+    "categoria": "Bolsinhas e bolsas",
+    "nome": "Bolsa cilindro vertical P",
+    "preco": 20,
+    "medidas": "21 cm altura x 45 cm diâmetro",
+    "foto": "imagens/catalogo_p10_06.jpg",
+    "ativo": true,
+    "pagina": "Página 10"
+  },
+  {
+    "id": "BA-035",
+    "categoria": "Mochilas e sacolinhas",
+    "nome": "Sacolinha P",
+    "preco": 9.5,
+    "medidas": "20 x 25 cm",
+    "foto": "imagens/catalogo_p11_07.jpg",
+    "ativo": true,
+    "pagina": "Página 11"
+  },
+  {
+    "id": "BA-036",
+    "categoria": "Mochilas e sacolinhas",
+    "nome": "Sacolinha M",
+    "preco": 15,
+    "medidas": "24 x 30 cm",
+    "foto": "imagens/catalogo_p11_04.jpg",
+    "ativo": true,
+    "pagina": "Página 11"
+  },
+  {
+    "id": "BA-037",
+    "categoria": "Mochilas e sacolinhas",
+    "nome": "Bolsa saco G",
+    "preco": 22,
+    "medidas": "33 x 42 cm",
+    "foto": "imagens/catalogo_p11_01.jpg",
+    "ativo": true,
+    "pagina": "Página 11"
+  },
+  {
+    "id": "BA-038",
+    "categoria": "Mochilas e sacolinhas",
+    "nome": "Mochila P",
+    "preco": 20,
+    "medidas": "19 x 18 x 7 cm",
+    "foto": "imagens/catalogo_p11_03.jpg",
+    "ativo": true,
+    "pagina": "Página 11"
+  },
+  {
+    "id": "BA-039",
+    "categoria": "Mochilas e sacolinhas",
+    "nome": "Mochila M",
+    "preco": 22,
+    "medidas": "19 x 21 x 8 cm",
+    "foto": "imagens/catalogo_p12_05.jpg",
+    "ativo": true,
+    "pagina": "Página 12"
+  },
+  {
+    "id": "BA-040",
+    "categoria": "Mochilas e sacolinhas",
+    "nome": "Mochila G",
+    "preco": 24,
+    "medidas": "26 x 26 cm",
+    "foto": "imagens/catalogo_p12_06.jpg",
+    "ativo": true,
+    "pagina": "Página 12"
+  },
+  {
+    "id": "BA-041",
+    "categoria": "Mochilas e sacolinhas",
+    "nome": "Mochila bolso cristal G",
+    "preco": 30,
+    "medidas": "26 x 26 cm",
+    "foto": "imagens/catalogo_p12_01.jpg",
+    "ativo": true,
+    "pagina": "Página 12"
+  },
+  {
+    "id": "BA-042",
+    "categoria": "Mochilas e sacolinhas",
+    "nome": "Mochila 3D bolso cristal",
+    "preco": 30,
+    "medidas": "",
+    "foto": "imagens/catalogo_p13_02.jpg",
+    "ativo": true,
+    "pagina": "Página 13"
+  },
+  {
+    "id": "BA-043",
+    "categoria": "Mochilas e sacolinhas",
+    "nome": "Mochila 3D",
+    "preco": 28,
+    "medidas": "28 x 30 x 8 cm",
+    "foto": "imagens/catalogo_p13_01.jpg",
+    "ativo": true,
+    "pagina": "Página 13"
+  },
+  {
+    "id": "BA-044",
+    "categoria": "Mochilas e sacolinhas",
+    "nome": "Mochila pipa cristal",
+    "preco": 26,
+    "medidas": "23 x 26 x 7 cm",
+    "foto": "imagens/catalogo_p19_02.jpg",
+    "ativo": true,
+    "pagina": "Página 19"
+  },
+  {
+    "id": "BA-045",
+    "categoria": "Necessaires e estojos",
+    "nome": "Frasqueira quadrada cristal",
+    "preco": 20,
+    "medidas": "58 cm diâmetro x 16 cm altura",
+    "foto": "imagens/catalogo_p13_05.jpg",
+    "ativo": true,
+    "pagina": "Página 13"
+  },
+  {
+    "id": "BA-046",
+    "categoria": "Necessaires e estojos",
+    "nome": "Bolsinha cristal quadrada 3D",
+    "preco": 22,
+    "medidas": "19 x 19 cm",
+    "foto": "imagens/catalogo_p14_04.jpg",
+    "ativo": true,
+    "pagina": "Página 14"
+  },
+  {
+    "id": "BA-047",
+    "categoria": "Necessaires e estojos",
+    "nome": "Frasqueira de lona",
+    "preco": 22,
+    "medidas": "56 cm diâmetro x 17 cm altura",
+    "foto": "imagens/catalogo_p14_01.jpg",
+    "ativo": true,
+    "pagina": "Página 14"
+  },
+  {
+    "id": "BA-048",
+    "categoria": "Necessaires e estojos",
+    "nome": "Bolsinha quadrada",
+    "preco": 21,
+    "medidas": "18 x 18 x 8 cm",
+    "foto": "imagens/catalogo_p14_02.jpg",
+    "ativo": true,
+    "pagina": "Página 14"
+  },
+  {
+    "id": "BA-049",
+    "categoria": "Necessaires e estojos",
+    "nome": "Bolsinha quadrada 3D",
+    "preco": 25,
+    "medidas": "20 x 20 cm",
+    "foto": "imagens/catalogo_p14_03.jpg",
+    "ativo": true,
+    "pagina": "Página 14"
+  },
+  {
+    "id": "BA-050",
+    "categoria": "Necessaires e estojos",
+    "nome": "Frasqueira cristal",
+    "preco": 22,
+    "medidas": "20 x 20 cm",
+    "foto": "imagens/catalogo_p15_01.jpg",
+    "ativo": true,
+    "pagina": "Página 15"
+  },
+  {
+    "id": "BA-051",
+    "categoria": "Necessaires e estojos",
+    "nome": "Estojo G com alça",
+    "preco": 20,
+    "medidas": "23 x 15 x 7 cm",
+    "foto": "imagens/catalogo_p15_05.jpg",
+    "ativo": true,
+    "pagina": "Página 15"
+  },
+  {
+    "id": "BA-052",
+    "categoria": "Necessaires e estojos",
+    "nome": "Estojo slim",
+    "preco": 19,
+    "medidas": "23 x 15 x 2 cm",
+    "foto": "imagens/catalogo_p15_02.jpg",
+    "ativo": true,
+    "pagina": "Página 15"
+  },
+  {
+    "id": "BA-053",
+    "categoria": "Necessaires e estojos",
+    "nome": "Estojo escolar",
+    "preco": 18,
+    "medidas": "13 x 25 cm",
+    "foto": "imagens/catalogo_p16_02.jpg",
+    "ativo": true,
+    "pagina": "Página 16"
+  },
+  {
+    "id": "BA-054",
+    "categoria": "Necessaires e estojos",
+    "nome": "Shoulder bag cristal",
+    "preco": 24,
+    "medidas": "19 x 15 x 7 cm",
+    "foto": "imagens/catalogo_p16_03.jpg",
+    "ativo": true,
+    "pagina": "Página 16"
+  },
+  {
+    "id": "BA-055",
+    "categoria": "Necessaires e estojos",
+    "nome": "Necessaire multifuncional com aba",
+    "preco": 35,
+    "medidas": "25 x 20 x 7 cm",
+    "foto": "imagens/catalogo_p16_05.jpg",
+    "ativo": true,
+    "pagina": "Página 16"
+  },
+  {
+    "id": "BA-056",
+    "categoria": "Necessaires e estojos",
+    "nome": "Necessaire dobrável",
+    "preco": 35,
+    "medidas": "",
+    "foto": "imagens/catalogo_p17_01.jpg",
+    "ativo": true,
+    "pagina": "Página 17"
+  },
+  {
+    "id": "BA-057",
+    "categoria": "Necessaires e estojos",
+    "nome": "Necessaire cristal em 3D",
+    "preco": 21,
+    "medidas": "20 x 15 cm",
+    "foto": "imagens/catalogo_p17_03.jpg",
+    "ativo": true,
+    "pagina": "Página 17"
+  },
+  {
+    "id": "BA-058",
+    "categoria": "Outros personalizados",
+    "nome": "Bolsa a tiracolo vertical/horizontal",
+    "preco": 28,
+    "medidas": "",
+    "foto": "imagens/catalogo_p18_04.jpg",
+    "ativo": true,
+    "pagina": "Página 18"
+  },
+  {
+    "id": "BA-059",
+    "categoria": "Outros personalizados",
+    "nome": "Chaveirinhos almofada (kit 12 unidades)",
+    "preco": 48,
+    "medidas": "",
+    "foto": "imagens/catalogo_p18_01.jpg",
+    "ativo": true,
+    "pagina": "Página 18"
+  },
+  {
+    "id": "BA-060",
+    "categoria": "Outros personalizados",
+    "nome": "Almofada personalizada",
+    "preco": 25,
+    "medidas": "30 x 30 cm",
+    "foto": "imagens/catalogo_p18_05.jpg",
+    "ativo": true,
+    "pagina": "Página 18"
+  },
+  {
+    "id": "BA-061",
+    "categoria": "Outros personalizados",
+    "nome": "Porta chuteira",
+    "preco": 24,
+    "medidas": "16 x 30 x 7 cm",
+    "foto": "imagens/catalogo_p19_01.jpg",
+    "ativo": true,
+    "pagina": "Página 19"
+  },
+  {
+    "id": "BA-062",
+    "categoria": "Outros personalizados",
+    "nome": "Bolsa picolé a tiracolo",
+    "preco": 24,
+    "medidas": "15 x 19 x 6 cm",
+    "foto": "imagens/catalogo_p19_07.jpg",
+    "ativo": true,
+    "pagina": "Página 19"
+  },
+  {
+    "id": "BA-063",
+    "categoria": "Outros personalizados",
+    "nome": "Pasta lousa",
+    "preco": 22,
+    "medidas": "26 x 19 cm",
+    "foto": "imagens/catalogo_p20_01.jpg",
+    "ativo": true,
+    "pagina": "Página 20"
+  },
+  {
+    "id": "BA-064",
+    "categoria": "Outros personalizados",
+    "nome": "Pasta professor(a)",
+    "preco": 22,
+    "medidas": "40 x 30 cm",
+    "foto": "imagens/catalogo_p20_04.jpg",
+    "ativo": true,
+    "pagina": "Página 20"
+  },
+  {
+    "id": "BA-065",
+    "categoria": "Outros personalizados",
+    "nome": "Bolsa de praia cristal",
+    "preco": 26,
+    "medidas": "37 x 29 x 11 cm",
+    "foto": "imagens/catalogo_p21_03.jpg",
+    "ativo": true,
+    "pagina": "Página 21"
+  },
+  {
+    "id": "BA-066",
+    "categoria": "Outros personalizados",
+    "nome": "Pasta multifuncional",
+    "preco": 26,
+    "medidas": "39 x 28 x 8 cm",
+    "foto": "imagens/catalogo_p21_05.jpg",
+    "ativo": true,
+    "pagina": "Página 21"
+  }
+]
