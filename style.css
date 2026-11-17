@@ -16,3 +16,9 @@
 .lightbox-close{position:absolute;right:20px;top:10px;color:white;border:0;background:transparent;font-size:46px}
 .checkout-btn:disabled{background:#d2c6cf;box-shadow:none;cursor:not-allowed}
 @media(max-width:650px){.hero-art{max-width:360px}.hero-art img{height:auto;max-height:260px}.photo{height:175px;padding:6px}.lightbox img{max-height:70vh}}
+
+/* V3 — logo oficial em fundo transparente, sem foto infantil na capa */
+.hero-art{background:transparent;border:0;box-shadow:none;padding:0;transform:none;border-radius:0;max-width:510px;display:flex;align-items:center;justify-content:center;}
+.hero-art img{display:block;width:100%;height:auto;max-height:none;object-fit:contain;border-radius:0;filter:drop-shadow(0 14px 14px rgba(124,84,113,.09));}
+.hero-decor{display:none;}
+@media(max-width:650px){.hero-art{width:100%;max-width:340px;padding:0}.hero-art img{height:auto;max-height:none}}
